@@ -1,0 +1,20 @@
+========================================
+       PROJECT'S CODE LINES REPORT      
+========================================
+
+File: src\main\java\ua\com\kvitka\ReportPlugin.java
+Lines number: 132 | Code lines: 106 | Comment lines: 0 | Empty lines: 26
+
+========================================
+             OVERALL RESULT            
+========================================
+
+Files analyzed: 1
+
+--- LINES STATISTICS ---
+Total lines:    132
+Lines with code:       106
+Lines with comments: 0
+Empty lines:   26
+
+========================================
